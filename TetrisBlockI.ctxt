@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TetrisBlockI
+comment1.params=
+comment1.target=TetrisBlockI()
+comment2.params=
+comment2.target=boolean\ canMoveDown()
+comment3.params=
+comment3.target=void\ moveRight()
+comment4.params=
+comment4.target=void\ moveLeft()
+comment5.params=
+comment5.target=void\ moveDown()
+comment6.params=
+comment6.target=void\ rotate()
+numComments=7
